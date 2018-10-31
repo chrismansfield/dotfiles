@@ -1,6 +1,6 @@
 [user]
-	name = Martin Engelsøy Norum
-	email = martin.norum@gmail.com
+	name = Christoffer Mansfield
+	email = christoffer.mansfield@gmail.com
 [alias]
 	unstage = reset HEAD --
 	co = checkout
